@@ -1,0 +1,45 @@
+img {
+  width: 250px;
+
+  width: 25%;
+}
+
+.sarki {
+  background-color: #e3dffd;
+  width: 100%;
+}
+
+.sarki1 {
+  background-color: #e3dffd;
+  width: 50%;
+}
+
+.profil {
+  background-color: #ecf2ff;
+}
+
+.takip {
+  background-color: #e5d1fa;
+  width: 30%;
+}
+
+.header {
+  background-color: #fff4d2;
+}
+
+.grid {
+  display: grid;
+  column-gap: 80px;
+  row-gap: 50px;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+  border: 1px solid #e5d1fa;
+  padding: 10px;
+}
+
+.link {
+    background-color: #E1EEDD;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
