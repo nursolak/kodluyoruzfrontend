@@ -1,0 +1,45 @@
+.ortala {
+  /* background-color: rgb(187, 190, 190); */
+  background-color: #eeeeee;
+  padding-top: 5%;
+  text-align: center;
+}
+
+.div-ortala {
+  position: absolute;
+  top: 15%;
+}
+
+html {
+  background-color: #eeeeee;
+}
+
+.ortala2 {
+  background-color: #eeeeee;
+  text-align: center;
+  margin: 0;
+  padding-top: 2%;
+}
+
+#renk1 {
+  background-color: #e2e9f0;
+}
+
+#renk2 {
+  background-color: rgb(230, 225, 232);
+}
+
+img {
+  width: 90%;
+}
+
+.grid-item {
+  margin: 10px;
+}
+
+.row {
+  padding: 0 20%;
+}
+.img-thumbnail {
+  margin-top: 1%;
+}
